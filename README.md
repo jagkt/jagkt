@@ -46,7 +46,7 @@ I design and deliver scalable, cloud-native solutions that support production sy
 ---
 
 ### 🎯 What I’m Looking For  
-I aim to work at the intersection of **AI/ML, Site Reliability Engineering, High-Performance Computing, and Distributed Systems**—building platforms that are:  
+I aim to work at the intersection of **AI/ML, Site Reliability Engineering, High-Performance Computing, and Distributed Systems*, building platforms that are:  
 - **Reliable & Resilient:** Capable of supporting mission-critical services for millions of users worldwide.  
 - **Scalable & Performant:** Optimized for growth, efficiency, and high throughput under complex workloads.  
 - **Intelligent & Adaptive:** Leveraging AI/ML to automate operations, detect anomalies, and improve system decision-making.  
