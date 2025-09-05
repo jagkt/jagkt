@@ -27,30 +27,38 @@ I design and deliver scalable cloud-native solutions while supporting production
 ### 📊 GitHub Stats & Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagkt&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagkt&show_icons=true&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yjagkt&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagkt&theme=radical)  
 
 ---
 
 ### 📌 Selected Projects  
+⭐️ _Coming Soon._
+<!---
 - **Metabase on AWS ECS Fargate** – Scalable analytics platform connected to PostgreSQL RDS.  
 - **End-to-End Kubernetes Lab** – CI/CD integrated multi-environment setup using Terraform + Ansible.  
 - **AWS IAM Automation** – IAM roles, policies, and groups automated with Terraform for best practices.  
 - **Telecom Blockchain Ledger** – Research prototype for secure, real-time billing/fraud monitoring.  
-
+---->
 ---
 
 ### 🎯 What I’m Looking For  
+I aim to work at the intersection of **AI/ML, Site Reliability Engineering, High-Performance Computing, and Distributed Systems**—building platforms that are:  
+- **Reliable & Resilient:** Capable of supporting mission-critical services for millions of users worldwide.  
+- **Scalable & Performant:** Optimized for growth, efficiency, and high throughput under complex workloads.  
+- **Intelligent & Adaptive:** Leveraging AI/ML to automate operations, detect anomalies, and improve system decision-making.  
+- **Innovative & Impactful:** Driving advancements in cloud-native technologies and applied research to solve real-world challenges.  
+<!---
 I’m seeking **cloud engineering / DevOps / SRE opportunities** where I can:  
 - Deliver production-ready cloud-native infrastructure  
 - Strengthen system reliability and automation  
 - Apply AI/ML insights to enterprise and telecom challenges  
-
+---->
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://linkedin.com/in/gbengakusade)  
 - 🌍 [Portfolio](#)  
-- ✉️ your-email@example.com  
+- ✉️ [Email](#)
 
 ---
 
