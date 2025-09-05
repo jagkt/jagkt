@@ -15,14 +15,14 @@ I design and deliver scalable, cloud-native solutions that support production sy
 - **DevOps & Delivery:** CI/CD pipelines, GitHub Actions, Jenkins, ArgoCD  
 - **Programming:** Python, Bash, SQL, JavaScript, Go (learning)  
 - **AI & Research:** Computer Vision, Deep Learning, NLP  
-- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing, Blockchain 
+- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing 
 
 ---
 
 ### 🏆 Key Highlights  
 - 🔹 **Infrastructure Delivery & Support** – Delivered and supported enterprise systems across **IaaS, PaaS, and SaaS**, ensuring reliability, scalability, and security in production environments.
 - 🔹 **System Reliability & Support** – Over 3 years improving product uptime, optimizing performance, and resolving critical production issues across enterprise environments, contributing to improved SLA compliance and reduced downtime.   
-- 🔹 **Cloud Solutions Delivery** – Deployed and automated AWS services (IAM, ECS Fargate, RDS, Route53) for analytics and product workloads.  
+- 🔹 **Cloud Solutions Delivery** – Deployed and automated AWS services (IAM, ECS Fargate, RDS, Route53, etc.) for analytics and product workloads.  
 <!---- 🔹 **Kubernetes Lab Builder** – Designed a production-like Kubernetes cluster (dev/staging/prod) with full CI/CD integration.  ---->
 - 🔹 **AI Researcher** – MSc Thesis on arbitrary-oriented ship detection using One-stage CNNs; currently extending expertise into exploring applied AI and Blockchain technologies in telecom billing fraud detection.  
 - 🔹 **Blockchain Prototype** – Building a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing.  
