@@ -14,8 +14,8 @@ I design and deliver scalable, cloud-native solutions that support production sy
 - **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Terraform, Ansible  
 - **DevOps & Delivery:** CI/CD pipelines, GitHub Actions, Jenkins, ArgoCD  
 - **Programming:** Python, Bash, SQL, JavaScript, Go (learning)  
-- **AI & Research:** Computer Vision, Deep Learning, NLP  
-- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing 
+- **AI & Research:** Computer Vision, Deep Learning
+- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing, NLP 
 
 ---
 
