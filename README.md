@@ -1,9 +1,13 @@
 # Hi, I'm Gbenga 👋  
 
+💡 **Software Delivery Engineer | SRE | Cloud, AI/ML & Distributed Systems Enthusiast**  
+
+I build and optimize **On-prem/cloud-native infrastructure** that keeps production systems reliable, scalable, and fast. My background spans **infrastructure delivery and support (IaaS, PaaS, SaaS)**, **system administration**, and **enterprise product support**, combined with applied **AI/ML research**. This mix gives me a unique edge in solving both technical and business challenges.  
+<!---
 💡 **Software Delivery & Cloud Engineer | DevOps | AI Enthusiast**  
 
 I design and deliver scalable, cloud-native solutions that support production systems with reliability and speed. My background combines **system administration**, **product delivery/support**, and **applied AI research**, giving me a unique edge in solving technical and business challenges.  
-
+---->
 ---
 
 ### 🚀 Core Skills  
@@ -11,16 +15,17 @@ I design and deliver scalable, cloud-native solutions that support production sy
 - **DevOps & Delivery:** CI/CD pipelines, GitHub Actions, Jenkins, ArgoCD  
 - **Programming:** Python, Bash, SQL, JavaScript, Go (learning)  
 - **AI & Research:** Computer Vision, Deep Learning, NLP  
-- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing  
+- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing, Blockchain 
 
 ---
 
 ### 🏆 Key Highlights  
-- 🔹 **System Reliability & Support** – Over 3 years improving product uptime and resolving critical production issues across enterprise environments.  
+- 🔹 **Infrastructure Delivery & Support** – Delivered and supported enterprise systems across **IaaS, PaaS, and SaaS**, ensuring reliability, scalability, and security in production environments.
+- 🔹 **System Reliability & Support** – Over 3 years improving product uptime, optimizing performance, and resolving critical production issues across enterprise environments, contributing to improved SLA compliance and reduced downtime.   
 - 🔹 **Cloud Solutions Delivery** – Deployed and automated AWS services (IAM, ECS Fargate, RDS, Route53) for analytics and product workloads.  
-- 🔹 **Kubernetes Lab Builder** – Designed a production-like Kubernetes cluster (dev/staging/prod) with full CI/CD integration.  
-- 🔹 **AI Researcher** – MSc Thesis on arbitrary-oriented ship detection using CNNs; exploring applied AI in telecom and fraud detection.  
-- 🔹 **Blockchain Prototype** – Built a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing.  
+<!---- 🔹 **Kubernetes Lab Builder** – Designed a production-like Kubernetes cluster (dev/staging/prod) with full CI/CD integration.  ---->
+- 🔹 **AI Researcher** – MSc Thesis on arbitrary-oriented ship detection using One-stage CNNs; currently extending expertise into exploring applied AI and Blockchain technologies in telecom billing fraud detection.  
+- 🔹 **Blockchain Prototype** – Building a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing.  
 
 ---
 
