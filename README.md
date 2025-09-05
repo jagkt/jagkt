@@ -2,7 +2,7 @@
 
 💡 **Software Delivery & Cloud Engineer | DevOps | AI Enthusiast**  
 
-I design and deliver scalable cloud-native solutions while supporting production systems with reliability and speed. My background combines **system administration**, **product delivery/support**, and **applied AI research**—giving me a unique edge in solving technical and business challenges.  
+I design and deliver scalable, cloud-native solutions that support production systems with reliability and speed. My background combines **system administration**, **product delivery/support**, and **applied AI research**, giving me a unique edge in solving technical and business challenges.  
 
 ---
 
