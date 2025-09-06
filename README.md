@@ -23,8 +23,8 @@ I design and deliver scalable, cloud-native solutions that support production sy
 - 🔹 **Infrastructure Delivery & Support** – Delivered and supported enterprise systems across **IaaS, PaaS, and SaaS**, ensuring reliability, scalability, and security in production environments.
 - 🔹 **System Reliability & Support** – Over 4 years improving product uptime, optimizing performance, and resolving critical production issues across enterprise environments, contributing to improved SLA compliance and reduced downtime.   
 - 🔹 **Cloud Solutions Delivery** – Deployed and automated AWS services (IAM, ECS Fargate, RDS, Route53, etc.) for analytics and product workloads.  
-- 🔹 **AI Researcher** – MSc Thesis on arbitrary-oriented ship detection using One-stage CNNs; currently extending expertise into exploring applied AI and Blockchain technologies in telecom billing fraud detection.  
-- 🔹 **Blockchain Prototype** – Building a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing.  
+- 🔹 **AI Researcher** – MSc Thesis on arbitrary-oriented ship detection using One-stage CNNs; currently extending expertise into exploring applied AI and Blockchain technologies in telecom billing fraud detection (personal research).  
+- 🔹 **Blockchain Prototype** – Building a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing (personal research).  
 <!---- 🔹 **Kubernetes Lab Builder** – Designed a production-like Kubernetes cluster (dev/staging/prod) with full CI/CD integration.  ---->
 ---
 
