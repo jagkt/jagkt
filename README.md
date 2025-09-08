@@ -2,7 +2,7 @@
 
 💡 **Software Delivery Engineer | SRE | Cloud, AI/ML & Distributed Systems Enthusiast**  
 
-I build and optimize **On-prem/cloud-native infrastructure** that keeps production systems reliable, scalable, and fast. My background spans **infrastructure delivery and support (IaaS, PaaS, SaaS)**, **system administration**, and **enterprise product support**, combined with applied **AI/ML research**. This mix gives me a unique edge in solving both technical and business challenges.  
+I build and optimize **On-prem/cloud-native infrastructure** that keeps production systems reliable and high-performing. My background spans **infrastructure delivery and support (IaaS, PaaS, SaaS)**, **system administration**, and **enterprise product support**, combined with applied **AI/ML research**. This mix gives me a unique edge in solving both technical and business challenges.  
 <!---
 💡 **Software Delivery & Cloud Engineer | DevOps | AI Enthusiast**  
 
