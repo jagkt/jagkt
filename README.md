@@ -31,7 +31,7 @@ I design and deliver scalable, cloud-native solutions that support production sy
 ### 📊 GitHub Stats & Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagkt&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagkt&show_icons=true&theme=radical&show_icons=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?username=jagkt&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagkt&theme=radical)
 
 ---
 
