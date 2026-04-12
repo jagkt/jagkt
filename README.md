@@ -1,13 +1,28 @@
 # Hi, I'm Gbenga 👋  
-
-**Software Delivery Engineer | SRE | Cloud, AI/ML & Distributed Systems Enthusiast**  
-
-I build and optimize **On-prem/cloud-native infrastructure** that keeps production systems reliable and high-performing. My background spans **infrastructure delivery and support (IaaS, PaaS, SaaS)**, **system administration**, and **enterprise product support**, combined with applied **AI/ML research**. This mix gives me a unique edge in solving both technical and business challenges.  
 <!---
+**Software Delivery Engineer | SRE | Cloud, AI/ML & Distributed Systems Enthusiast**  
+---->
+**Delivery Engineer · SRE · Platform & Distributed Systems**
+Building production-grade infrastructure at the intersection of Cloud, AI/ML, and Systems Engineering. 
+<!---
+I build and optimize **On-prem/cloud-native infrastructure** that keeps production systems reliable and high-performing. My background spans **infrastructure delivery and support (IaaS, PaaS, SaaS)**, **system administration**, and **enterprise product support**, combined with applied **AI/ML research**. This mix gives me a unique edge in solving both technical and business challenges.  
+
 **Software Delivery & Cloud Engineer | DevOps | AI Enthusiast**  
 
 I design and deliver scalable, cloud-native solutions that support production systems with reliability and speed. My background combines **system administration**, **product delivery/support**, and **applied AI research**, giving me a unique edge in solving technical and business challenges.  
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ---->
+
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 ---
 
 ### Core Skills  
@@ -35,8 +50,23 @@ I design and deliver scalable, cloud-native solutions that support production sy
 
 ---
 
-### Selected Projects  
- _Coming Soon._
+### Featured Projects 
+#### [agentloop](https://github.com/jagkt/agentloop)
+> Minimal agentic framework that transforms an LLM into an autonomous, self-correcting optimization loop.
+
+Built as the foundation for [**KernelScope**](https://github.com/jagkt/kernelscope), an AI-powered GPU kernel optimizer. The agent thinks, proposes code modifications, runs them against a real environment, reflects on feedback, and loops until the goal is met. Provider-agnostic: Ollama, Groq, Anthropic, OpenAI.
+
+`Python` · `LLM agents` · `GPU kernels` · `MIT`
+
+---
+
+#### [k8s-projects-hub](https://github.com/jagkt/k8s-projects-hub) `ongoing`
+> Hands-on Kubernetes projects covering CI/CD, IaC, Security, Service Mesh, Operators, Serverless, and Multi-Cluster Management.
+
+Fully automated with Ansible. Runs on local VMware Workstation VMs with K3s and KIND, instrumented with Prometheus for observability.
+
+`Kubernetes` · `Ansible` · `Prometheus` · `K3s` · `Makefile`
+
 <!---
 - **Metabase on AWS ECS Fargate** – Scalable analytics platform connected to PostgreSQL RDS.  
 - **End-to-End Kubernetes Lab** – CI/CD integrated multi-environment setup using Terraform + Ansible.  
