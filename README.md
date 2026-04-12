@@ -91,8 +91,10 @@ I’m seeking **cloud engineering / DevOps / SRE opportunities** where I can:
 ---
 
 ### Connect With Me  
+<!---
 - 💼 [LinkedIn](https://linkedin.com/in/gbengakusade)  
 - ✉️ [Email](#)
+---->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gbengakusade-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/gbengakusade)
 [![GitHub](https://img.shields.io/badge/GitHub-jagkt-181717?style=flat&logo=github)](https://github.com/jagkt)
