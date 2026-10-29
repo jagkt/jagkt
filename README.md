@@ -30,8 +30,8 @@ I design and deliver scalable, cloud-native solutions that support production sy
 - **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Terraform, Ansible  
 - **DevOps & Delivery:** CI/CD pipelines, GitHub Actions, Jenkins, ArgoCD  
 - **Programming:** Python, Bash, SQL, JavaScript, Go (learning)  
-- **AI & Research:** Computer Vision, Deep Learning
-- **Other Areas:** Telecom Systems, Blockchain in Enterprise, High-Performance Computing, NLP 
+- **AI & Research:** Computer Vision, Deep Learning, AI Agent
+- **Other Areas:** Telecom Systems 
 
 ---
 
@@ -40,8 +40,8 @@ I design and deliver scalable, cloud-native solutions that support production sy
 - **System Reliability & Support** – Over 4 years improving product uptime, optimizing performance, and resolving critical production issues across enterprise environments, contributing to improved SLA compliance and reduced downtime.   
 - **Cloud Solutions Delivery** – Deployed and automated AWS services (IAM, ECS Fargate, RDS, Route53, etc.) for analytics and product workloads.  
 - **AI Researcher** – MSc Thesis on arbitrary-oriented ship detection using One-stage CNNs; currently extending expertise into exploring applied AI and Blockchain technologies in telecom billing fraud detection (personal research).  
-- **Blockchain Prototype** – Building a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing (personal research).  
-<!---- **Kubernetes Lab Builder** – Designed a production-like Kubernetes cluster (dev/staging/prod) with full CI/CD integration.  ---->
+<!----- **Blockchain Prototype** – Building a research-driven cross-operator CDR ledger for **real-time fraud detection** in telecom billing (personal research).  
+ **Kubernetes Lab Builder** – Designed a production-like Kubernetes cluster (dev/staging/prod) with full CI/CD integration.  ---->
 ---
 
 ### GitHub Stats & Languages  
@@ -77,7 +77,7 @@ Fully automated with Ansible. Runs on local VMware Workstation VMs with K3s and 
 ---
 
 ### What I’m Looking For  
-I aim to work at the intersection of **AI/ML, Site Reliability Engineering, High-Performance Computing, and Distributed Systems*, building platforms that are:  
+I aim to work at the intersection of **AI/ML, Site Reliability Engineering, and Distributed Systems*, building platforms that are:  
 - **Reliable & Resilient:** Capable of supporting mission-critical services for millions of users worldwide.  
 - **Scalable & Performant:** Optimized for growth, efficiency, and high throughput under complex workloads.  
 - **Intelligent & Adaptive:** Leveraging AI/ML to automate operations, detect anomalies, and improve system decision-making.  
